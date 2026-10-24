@@ -1,0 +1,31 @@
+# === Entorno virtual ===
+.venv/
+venv/
+env/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# === Jupyter ===
+.ipynb_checkpoints/
+
+# === Datos (se versiona la estructura, no los archivos) ===
+data/raw/*
+data/procesado/*
+data/modelos/*
+!data/**/.gitkeep
+
+# === Salidas generadas ===
+figuras/*.png
+!figuras/.gitkeep
+
+# === Sistema operativo y editor ===
+.DS_Store
+.vscode/
+.idea/
+
+# === Credenciales ===
+.env
+*.key

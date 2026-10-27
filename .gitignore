@@ -29,3 +29,5 @@ figuras/*.png
 # === Credenciales ===
 .env
 *.key
+
+notebooks/asin/

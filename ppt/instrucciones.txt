@@ -1,0 +1,13 @@
+Pauta avance de proyecto semestral - 6 de noviembre (Entrega 1)
+
+Estimados/as,
+
+De acuerdo a la planificación del curso, las presentaciones de avance de proyectos quedarán para el día viernes 6 de noviembre.
+
+También les informo lo que debería tener la presentación de avance del proyecto:
+
+Introducción (15%)
+Descripción del problema (15%)
+Metodología y plan de trabajo por semana (qué métodos piensan utilizar -al nivel que conozcan hasta el momento- y cómo los van a evaluar) (30%)
+Descripción de los datos disponibles - Análisis exploratorio de los datos (30%)
+Si corresponde, resultados preliminares de la aplicación de método(s) de aprendizaje automático. (10%)
